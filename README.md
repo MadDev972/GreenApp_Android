@@ -1,5 +1,6 @@
 GreenApp_Android
 ============
+/* This code is from 2011 and was written for Gingerbread, optimized for HTC Desire*/
 
 An app for all things environment-friendly !
 
