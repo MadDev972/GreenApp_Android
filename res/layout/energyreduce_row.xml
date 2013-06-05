@@ -1,0 +1,9 @@
+<TextView  xmlns:android="http://schemas.android.com/apk/res/android"
+			android:id="@+id/energyreduce_tips" 
+        	android:layout_width="match_parent" 
+        	android:layout_height="wrap_content"
+        	android:textColor="#228B22"
+        	android:textSize="17dip"
+        	android:background="@drawable/list"
+        	/>
+

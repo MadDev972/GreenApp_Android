@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/sources" 
+      android:title="Sources"
+      android:icon="@drawable/earth">
+</item> 
+  
+<item android:id="@+id/return_categories" 
+     android:title="To Categories"
+     android:icon="@drawable/quit" />
+</menu>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="main_text1">Did you know that...?</string>
+    <string name="app_name">Green</string>
+    <string name="main_button1">More green facts !</string>
+    <string name="main_button2">Pick a category !</string>
+    <string name="main_text2">Want more?</string>
+    <string name="Combitech">by Combitech  </string>
+    <string name="categories_text1">Pick !</string>
+    <string name="categories_button1">Food</string>
+    <string name="categories_button2">Energy</string>
+    <string name="categories_button3">Quizzes</string>
+    <string name="categories_button4">Resources</string>
+    <string name="categories_button5">Combitech</string>
+    <string name="food_text0">Eating vegetarian/vegan to help the environment</string>
+    <string name="food_text1">According to a 2006 United Nations initiative, the livestock industry is one of the largest contributors to environmental degradation worldwide, and modern practices of raising animals for food contributes on a "massive scale" to deforestation, air and water pollution, land degradation, loss of topsoil, climate change, the overuse of resources including oil and water, and loss of biodiversity. The initiative concluded that "<b>the livestock sector emerges as one of the top two or three most significant contributors to the most serious environmental problems, at every scale from local to global</b>." <b>In 2006, FAO estimated that meat industry contributes 18% of all emissions of greenhouse gases. This figure was revised in 2009 by two World Bank scientists and estimated at 51% minimum.</b>
+In a world of diminishing safe water supplies it is worth bearing in mind that animals fed on grain need much more water than grain crops. In tracking food animal production from the feed through to the dinner table, the inefficiencies of meat, milk and egg production range from a 4:1 energy input to protein output ratio up to 54:1.The result is that producing animal-based food is typically much less efficient than the direct harvesting of grains, vegetables, legumes, seeds and fruits for human consumption. A person existing chiefly on animal protein requires 10 times more land to provide adequate food than someone living on vegetable sources of protein.
+<b>Choosing to eat vegetarian/vegan is a good way to work everyday toward a more sustainable world.</b></string>
+    <string name="food_text2">You can find below a list of yummy vegetarian/vegan restaurants and stores in your area.</string>
+    <string name="food_button1">Access the list</string>
+    <string name="location_pop_text1">Set your location:</string>
+    <string name="location_pop_button1">Done!</string>
+    <string name="location_pop_countries_prompt">Choose a country:</string>
+    <string name="location_pop_cities_prompt">Choose a city:</string>
+    <string name="resources_text1">Here you can find books and movies treating of various green themes, from economics, to energy, philosophy and even beauty!</string>
+    <string name="resources_button1">To the list!</string>
+    <string name="resources_button2">Movies</string>
+    <string name="quizzes_text0"><b>Green Quizzes</b></string>
+    <string name="quizzes_text1">Test your green know-how and learn how to shrink your environmental footprint on the planet!</string>
+    <string name="quizzes_button1">To the quizzes!</string>
+    <string name="energy_text0"><b>What\'s a carbon footprint?</b></string>
+    <string name="energy_text1">A carbon footprint is "the total set of greenhouse gas (GHG) emissions caused by an organization, event, product or person."It is often expressed in terms of the amount of carbon dioxide, or its equivalent of other GHGs, emitted. 
+Calculating your carbon footprint is a good way to get a better grasp on the effects of our everyday life on the atmosphere.
+Press the button below to get an assessment of your carbon footprint, or if you\'re looking for ideas to reduce your impact on the environment, go directly to <i>Offset your carbon footprint</i>.
+    </string>
+    <string name="energy_button1">Calculate your carbon footprint</string>
+    <string name="energy_button2">Offset your carbon footprint</string>
+    <string name="energycarbonhouse_intro"><b>Household</b></string>
+    <string name="energycarbonhouse_info"><i>To calculate your full household footprint, indicate 1 person in household.</i></string>
+    <string name="energycarbonhouse_nb"><b>People in your household</b></string>
+    <string name="energycarbonhouse_electricity"><b>Electricity</b></string>
+    <string name="energycarbonhouse_naturalgas"><b>Natural Gas</b></string>
+    <string name="energycarbonhouse_heatingoil"><b>Heating oil</b></string>
+    <string name="energycarbonhouse_coal"><b>Coal</b></string>
+    <string name="energycarbonhouse_lpg"><b>LPG</b></string>
+    <string name="energycarbonhouse_propane"><b>Propane</b></string>
+    <string name="energycarbonhouse_pellets"><b>Wooden Pellets</b></string>
+    <string name="energycarbonhouse_calculate">Calculate and save to results</string>
+    <string name="energycarbonhouse_next">Next</string>
+    <string name="energycarbonflights_intro"><b>Air transportation</b> </string>
+    <string name="energycarbonflights_from"><b>From</b></string>
+    <string name="energycarbonflights_button">Select an airport</string>
+    <string name="energycarbonflights_viabutton">Select an airport (Optional)</string>
+    <string name="energycarbonflights_to"><b>To</b></string>
+    <string name="energycarbonflights_via"><b>Via</b></string>
+    <string name="energycarbonflights_editText1"><b>Trips</b></string>
+    <string name="energycarbonflights_button1">Calculate and save to results!</string>
+    <string name="energycarbonflights_button2">Add a flight</string>
+    <string name="energycarbonflights_button3">Next</string>
+    <string name="energycarbonflights_class"><b>Class</b></string>
+    <string name="energycarboncar_intro"><b>Personal Vehicles</b></string>
+    <string name="energycarboncar_car"><b>Car</b></string>
+    <string name="energycarboncar_motorbike"><b>Motorbike</b></string>
+    <string name="energycarboncar_mileage"><b>Mileage</b></string>
+    <string name="energycarboncar_efficiency"><b>Efficiency</b></string>
+    <string name="energycarboncar_button1">Calculate and save to results</string>
+    <string name="energycarboncar_button2">Next</string> 
+    <string name="energycarbonbus_intro"><b>Public transportation</b></string>
+    <string name="energycarbonbus_bus"><b>Bus:</b></string> 
+    <string name="energycarbonbus_localtrain"><b>Local train:</b></string> 
+    <string name="energycarbonbus_train"><b>Long Distance Train:</b></string> 
+    <string name="energycarbonbus_tram"><b>Tram:</b></string>  
+    <string name="energycarbonbus_subway"><b>Subway:</b></string> 
+    <string name="energycarbonbus_taxi"><b>Taxi:</b></string>
+    <string name="energycarbonbus_button1">Calculate and save to results</string> 
+    <string name="energycarbonbus_button2">Next</string> 
+    <string name="energycarbonsecond_intro"><b>Secondary carbon footprint</b></string>
+    <string name="energycarbonsecond_food"><b>Food preferences</b></string>
+    <string name="energycarbonsecond_organic"><b>Organic produce</b></string>
+    <string name="energycarbonsecond_season"><b>In season food</b></string>
+    <string name="energycarbonsecond_imported"><b>Imported food and goods</b></string>
+    <string name="energycarbonsecond_fashion"><b>Fashion</b></string>
+    <string name="energycarbonsecond_packaging"><b>Packaging</b></string>
+    <string name="energycarbonsecond_furniture"><b>Furniture and electricals</b></string>
+    <string name="energycarbonsecond_recycling"><b>Recycling</b></string>
+    <string name="energycarbonsecond_recreation"><b>Recreation</b></string>
+    <string name="energycarbonsecond_car"><b>Car manufacture</b></string>
+    <string name="energycarbonsecond_finance"><b>Finance and other services</b></string>
+    <string name="energycarbonsecond_button1">Calculate and save to results!</string>
+    <string name="energycarbonsecond_button2">To results !</string>
+    <string name="energycarbonresult_intro"><b>Your total carbon footprint</b></string>
+    <string name="energycarbonresult_house"><b>House: </b></string>
+    <string name="energycarbonresult_flights"><b>Flights: </b></string>
+    <string name="energycarbonresult_car"><b>Personal Vehicles: </b></string>
+    <string name="energycarbonresult_public"><b>Public Transportation: </b></string>
+    <string name="energycarbonresult_second"><b>Secondary: </b></string>
+    <string name="energycarbonresult_button1">Calculate another Carbon FootprintTo Offset</string>
+    <string name="energycarbonresult_button2">To Offset</string>
+    <string name="energycarbonsecond_year"><b>Indicate in months the length of the period of time considered:</b></string>
+    <string name="energycarbonresult_total"><b>Total </b></string>
+    <string name="Combitech_description">Demand for green and energy-efficient solutions is increasing dramatically.The innovations of our times are going to be found in areas such as sustainable development, renewable energy and resource efficiency.
+With its wide-ranging technical knowledge, safety expertise, and environmental specialists, Combitech is the chosen technical partner of three of Sweden\'s leading corporate incubators and works with Sweden\'s largest industrial companies
+We provide services and technical platforms that are suited to companies to be found in the Greentech sector. It is important to observe that Greentech is not an industry in itself, but rather a sector that cuts across a number of industries. As a consequence, Combitech posesses a broad client base involved in everything from lawnmower development to tidal power.
+.Do you need help with the CE marking of your tidal power or development of a cost-effective control system? Combitech has the expertise and the platforms.</string>
+	<string name="Combitech_text1">Competences </string>
+	<string name="Combitech_text2">Offers </string>
+	<string name="Combitech_text3">References </string>
+	<string name="Combitech_of1">Environmental impact Assessment</string>
+	<string name="Combitech_of11">Infrastructure</string>
+	<string name="Combitech_of12">Licensed activities and measures</string>
+	<string name="Combitech_of13">Environmental assessments of plans and programs</string>
+	<string name="Combitech_of2">Environmental management organisation</string>
+	<string name="Combitech_of21">Specialized services in environmental management in order to develop or implement environmental management systems.</string>
+	<string name="Combitech_of3">Environmental coordination of infrastructure projects</string>
+	<string name="Combitech_of31">Management of environmental requirements</string>
+	<string name="Combitech_of32">Government contacts</string>
+	<string name="Combitech_of33">Notifications and permits</string>
+	<string name="Combitech_of34">Control and monitoring of contractors</string>
+	<string name="Combitech_of4">Environmental Communication</string>
+	<string name="Combitech_of41">Internal and external communication of environmental issues and environmental work</string>
+	<string name="Combitech_of5">Environmental Education</string>
+	<string name="Combitech_of51">Basic environmental courses</string>
+	<string name="Combitech_of52">Tailor-made training courses</string>
+	<string name="Combitech_of6">System security environment</string>
+	<string name="Combitech_of61">Identification of substances and processes with negative environmental health impact</string>
+	<string name="Combitech_of62">Measures to minimize the impact</string>
+	<string name="Combitech_of7">Environmental inventory of buildings</string>
+	<string name="Combitech_of71">Environmental and material inventory</string>
+	<string name="Combitech_of72">Sampling and analysis</string>
+	<string name="Combitech_of73">Demolition Plan</string>
+	<string name="Combitech_of8">Contaminated land</string>
+	<string name="Combitech_of81">Inventory and sampling</string>
+	<string name="Combitech_of82">Risk classification and proposed actions</string>
+	<string name="Combitech_comp1">Our environmental consultants combine extensive experience with expertise. Our competences include:</string>
+	<string name="Combitech_comp2">Environmental missions related to infrastructure, urban planning and industry</string>
+	<string name="Combitech_comp3">Environmental Impact Assessments (EIAs)</string>
+	<string name="Combitech_comp4">Environmental law and planning processes related to urban planning</string>
+	<string name="Combitech_comp5">Contaminated soils and bio-decontamination</string>
+	<string name="Combitech_comp6">Noises and Vibrations</string>
+	<string name="Combitech_comp7">Environmental inventory of buildings</string>
+	<string name="Combitech_comp8">Ecotoxicology and marine biology</string>
+	<string name="Combitech_comp9">Environmental Security Analysis</string>
+	<string name="Combitech_comp10">Climate Reports</string>
+	<string name="Combitech_comp11">Environmental management</string>
+	<string name="Combitech_comp12">Sustainable procurement</string>
+	<string name="Combitech_comp13">Environmental education</string>
+	<string name="Combitech_comp14">Environmental communication</string>
+	<string name="Combitech_ref1">References</string>
+	<string name="Combitech_refpar1">Carbon Disclosure Project</string>
+	<string name="Combitech_refpar2">Sustainable outsourcing contracts</string>
+	<string name="Combitech_refpar3">Mapping of vulnerability to climate change</string>
+	<string name="Combitech_refpar4">Specialist support for environment-related business development</string>
+	<string name="Combitech_refpar5">High environmental requirements in Australia</string>
+	<string name="Combitech_refpar6">Alstom Power Service</string>
+	<string name="Combitech_refpar7">FMV</string>
+	<string name="Combitech_refpar8">LFV</string>
+	<string name="Combitech_refpar9">The Food Administration</string>
+	<string name="Combitech_refpar10">Stockholm Traffic</string>
+	<string name="Combitech_refpar11">Svensk Biogas</string>
+	<string name="Combitech_refpar12">Minesto Husqvarna</string>
+	<string name="Combitech_refchild1">CDP (the Carbon Disclosure Project) is a global climate project that over a third of the Earth\'s total investment capital supports. Its purpose is to facilitate the dialog 
+	between investors and companies based on accurate information on the opportunities and threats the company has in relation to climate changes.
+	Saab is involved in the project since 2006, and has entrusted Combitech with a big responsibility. Our main task has been to create an overall picture of how the Saab Group is affected
+	by climate change and how environmental work is undertaken by the group. For this, Combitech has collected and compiled statistics and other environmental information from business units,
+	subsidiaries and suppliers.
+	When the CDP ranked Scandinavia\'s 190 largest companies on their awareness of environmental impact in October 2009,
+	Saab ended up among the first 20.</string>
+	<string name="Combitech_refchild2">Combitech supports SL (Stockholm Transport) in the procurement of contractors 
+	for technical maintenance.
+	Some of the contracts deal with the setting of environmental standards that are consistent
+	with SL\'s high ambitions in the environmental area and which also responds to the law and
+	the tough environmental standards that apply to contracts within the city.</string>
+	<string name="Combitech_refchild3">In 2008-2009 the Energy Authority maps the vulnerabilities of the Swedish energy system.
+	Which parts are vulnerable to the weather?How are these vulnerabilities influenced by climate changes?
+	Combitech had several tasks in the project. First, Combitech was in charge with clarifying what had already been investigated, what was 
+	being investigated and what remained to investigate in this complex area. For this mission, Combitech analyzed
+	large volumes of existing data and produced compilations of the data with the agency and its experts.
+	Later in the project Combitech carried out inventories, compared climate forecasts and carried out its own investigations.
+	Combitech\'s recommendations were then transmitted for implementation on a municipal, national and private level.</string>
+	<string name="Combitech_refchild4">When Saab wanted to explore opportunities to apply their cutting-edge expertise in localization and collaborative systems (Situational Awareness)
+	in the environment department, they hired Combitech\'s environment specialists.
+	The mission started in 2009 and focused on identifying and analyzing actors, clients, problem areas,
+	environment parameters, needs, competing products, information sources, standards etc. The analysis constituted the basis for the development
+	of a demonstrator called Environmental Awareness Engine, which was launched autumn 2010. </string>
+	<string name="Combitech_refchild5"> Prior to the delivery of a ship-mounted equipment, the Australian Navy hired Combitech\'s environment specialists to ensure that the products met the demanding requirements and 
+	environmental considerations were documented in a suitable way.</string>
+	<string name="Combitech_refchild6">Better filters.</string>
+	<string name="Combitech_refchild7">Environment-oriented security analysis of radar station.</string>
+	<string name="Combitech_refchild8">Analysis of environmental reviews for certification.</string>
+	<string name="Combitech_refchild9">Crisis management in environmental disasters.</string>
+	<string name="Combitech_refchild10">Procurement of green outsourcing services.</string>
+	<string name="Combitech_refchild11">Management systems for a more efficient transport of biogas.</string>
+	<string name="Combitech_refchild12">Robotic mowers.</string>
+</resources>

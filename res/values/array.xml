@@ -1,0 +1,225 @@
+<resources>
+    <string-array name="countries">
+    	<item>Sweden</item>
+    	<item>Denmark</item>
+    	<item>Norway</item>
+    	<item>Finland</item>
+    </string-array>
+    
+    <string-array name="swedish_cities">
+    	<item>Stockholm</item>
+    	<item>Linköping</item>
+    	<item>Jönköping</item>
+    	<item>Malmö</item>
+    </string-array>
+    
+    <string-array name="danish_cities">
+    	<item>Copenhagen</item>
+    	<item>Aarhus</item>
+    	<item>Odense</item>
+    	<item>Aalborg</item>
+    </string-array>
+    
+    <string-array name="norwegian_cities">
+    	<item>Oslo</item>
+    	<item>Bergen</item>
+    	<item>Trondheim</item>
+    	<item>Stavanger</item>
+    </string-array>
+    
+    <string-array name="finnish_cities">
+    	<item>Helsinki</item>
+    	<item>Espoo</item>
+    	<item>Oulu</item>
+    	<item>Jyväskylä</item>
+    </string-array>
+    
+    <string-array name="types">
+    	<item>Restaurant</item>
+    	<item>Store</item>
+    </string-array>
+    
+    <string-array name="resources">
+    	<item>Books</item>
+    	<item>Movies</item>	
+    </string-array>
+    
+    <string-array name="resources_types_books">
+    	<item>Eco-Food</item>
+    	<item>Eco-Education</item>
+    	<item>Eco-Energy</item>
+    	<item>Eco-Economics</item>
+    	<item>Eco-Building</item>
+    	<item>Eco-Philosophy</item>
+    	<item>Eco-Building</item>
+    	<item>Eco-Beauty</item>
+    </string-array>
+    
+    <string-array name="resources_types_movies">
+    	<item>Documentary</item>
+    	<item>Fiction</item>
+    </string-array>
+    
+    <string-array name="quizzes_categories">
+    	<item>Home and Garden</item>
+    	<item>Food</item>
+    	<item>Travel and Transportation</item>
+    	<item>Resources</item>
+    </string-array>
+    
+    <string-array name="energycarbonhouse_people">
+    	<item>1</item>
+    	<item>2</item>
+    	<item>3</item>
+    	<item>4</item>
+    	<item>5</item>
+    	<item>6</item>
+    	<item>7</item>
+    	<item>8</item>
+    	<item>9</item>
+    	<item>10</item>
+    </string-array>
+    
+    <string-array name="energycarbonhouse_electricity">
+    	<item>kWh</item>
+    </string-array>
+    
+    <string-array name="energycarbonhouse_naturalgas">
+    	<item>kWh</item>
+    	<item>therms</item>
+    	<item>cubic meters</item>
+    </string-array>
+    
+    <string-array name="energycarbonhouse_heatingoil">
+    	<item>kWh</item>
+    	<item>litres</item>
+    	<item>metric tons</item>
+    	<item>US gallons</item>
+    	<item>UK gallons</item>
+    </string-array>
+    
+    <string-array name="energycarbonhouse_coal">
+    	<item>kWh</item>
+    	<item>metric tons</item>
+    </string-array>
+    
+    <string-array name="energycarbonhouse_lpg">
+    	<item>kWh</item>
+    	<item>litres</item>
+    	<item>therms</item>
+    	<item>US gallons</item>
+    </string-array>
+    
+    <string-array name="energycarbonhouse_pellets">
+    	<item>metric tons</item>
+    </string-array>
+    
+    <string-array name="energycarbonflights_class">
+    	<item>Economy class</item>
+    	<item>Premium Economy class</item>
+    	<item>Business class</item>
+    	<item>First class</item>
+    </string-array>
+    
+    <string-array name="energycarboncar_mileage">
+    	<item>km</item>
+    	<item>miles</item>
+    </string-array>
+    
+    <string-array name="energycarboncar_efficiencykm">
+    	<item>L/100km</item>
+    	<item>g/km (UK)</item>
+    	<item>g/km (US)</item>
+    </string-array>
+    
+	<string-array name="energycarboncar_efficiencymiles">
+    	<item>mpg (UK)</item>
+    	<item>mpg (US)</item>
+    </string-array>
+    
+    <string-array name="energycarboncar_gas">
+    	<item>petrol</item>
+    	<item>diesel</item>
+    	<item>LPG</item>
+    	<item>LNG/CNG</item>
+    	<item>Biodiesel</item>
+    	<item>Bioethanol</item>
+    	<item>Biomethane</item>
+    </string-array>
+    
+    <string-array name="energycarbonsecond_food">
+    	<item>I am a vegan</item>
+    	<item>I am a vegetarian</item>
+    	<item>I eat mainly fish</item>
+    	<item>I eat mainly white meat</item>
+    	<item>I eat a mix of white and red meat</item>
+    	<item>I eat red meat everyday</item>
+   </string-array>
+    	
+    <string-array name="energycarbonsecond_organic">
+    	<item>I only ever buy or grow my own organic food</item>
+    	<item>Some of the food I buy or grow is organic</item>
+    	<item>I never buy or grow organic food / Don\'t know</item>
+    </string-array>
+    
+    <string-array name="energycarbonsecond_season">
+    	<item>I only ever buy or grow in season food</item>
+    	<item>I try to buy or grow some in season food</item>
+    	<item>I don\'t try to buy or grow in season food</item>
+    </string-array>
+    
+    <string-array name="energycarbonsecond_imported">
+    	<item>I grow my own food and don\'t buy any produce</item>
+    	<item>I only buy locally produced food and goods</item>
+    	<item>I prefer buy food produced close to home</item>
+    	<item>I don\'t notice where the food comes from</item>
+    </string-array>
+    
+    <string-array name="energycarbonsecond_fashion">
+    	<item>I regularly shop to have the latest fashion</item>
+    	<item>I buy new clothes when I need them</item>
+    	<item>I only buy second hand clothes</item>
+    </string-array>
+    
+    <string-array name="energycarbonsecond_packaging">
+    	<item>I don\'t buy anything that has packaging around it</item>
+    	<item>I only buy things with very little packaging</item>
+    	<item>I try and buy things with little packaging</item>
+    	<item>I only buy nicely packaged things</item>
+    </string-array>
+    
+    <string-array name="energycarbonsecond_furniture">
+    	<item>I like to have the latest technology and home fashion</item>
+    	<item>I mostly buy new but generally keep things for more than 5 years</item>
+    	<item>I only buy essential equipments and use it till it wears out</item>
+    	<item>I only buy second hand furniture and appliances</item>
+    </string-array>
+    
+    <string-array name="energycarbonsecond_recycling">
+    	<item>Everything I use gets recycled or composted</item>
+    	<item>Most of my waste is recycled</item>
+    	<item>Some of my waste is recycled</item>
+    	<item>I don\'t recycle at all</item>
+    </string-array>
+    
+    <string-array name="energycarbonsecond_recreation">
+    	<item>I only do zero carbon activities e.g walk and cycle</item>
+    	<item>I occasionally go out to places like the movies,bars and restaurants</item>
+    	<item>I often go out to places like the movies, bars and restaurants</item>
+    	<item>I enjoy carbon intensive activities e.g quad biking, sky diving, flying...</item>
+    </string-array>
+    
+    <string-array name="energycarbonsecond_car">
+    	<item>I don\'t own a car</item>
+    	<item>I own 1 car</item>
+    	<item>I own 2 cars</item>
+    	<item>I own 3 cars</item>
+    	<item>I own 4 cars</item>
+    </string-array>
+    
+    <string-array name="energycarbonsecond_finance">
+    	<item>I don\'t have a bank account</item>
+    	<item>I use the standard range of financial services</item>
+    </string-array>	
+    
+</resources>

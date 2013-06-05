@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="se.green.combitech"
+      android:versionCode="1"
+      android:versionName="1.0">
+    <uses-sdk android:minSdkVersion="10" />
+	<uses-permission android:name="android.permission.INTERNET" />
+	
+    <application android:icon="@drawable/icon" android:label="@string/app_name">
+        <activity android:name=".GreenActivity"
+                  android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+		<activity android:name=".DisplayCategories" />
+		<activity android:name=".Food" />
+		<activity android:name=".Food_List" />
+		<activity android:name=".Resources" />
+		<activity android:name=".Resources_List" />
+		<activity android:name=".Quizzes" />
+		<activity android:name=".Quizzes_List" />
+		<activity android:name=".Energy" />
+		<activity android:name=".Energy_carbon" />
+		<activity android:name=".Energy_reduce" />
+		<activity android:name=".Energy_flights" />
+		<activity android:name=".Energy_car" />
+		<activity android:name=".Energy_bus" />
+		<activity android:name=".Energy_secondary" />
+		<activity android:name=".Energy_results" />
+		<activity android:name=".Combitech" />
+		<activity android:name=".Combitech_offers" />
+		<activity android:name=".Combitech_competences" />
+		<activity android:name=".Combitech_references" />
+    </application>
+</manifest>

@@ -1,0 +1,21 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+    	android:layout_width="fill_parent" 
+    	android:layout_height="fill_parent" 
+    	android:orientation="horizontal"
+    	android:background="@drawable/list3"
+    	android:padding="10dip">
+    	<ImageView 
+	    	android:src="@drawable/book1" 
+	    	android:layout_width="wrap_content" 
+	    	android:id="@+id/resourceslist_imageView1"
+	    	android:layout_height="fill_parent"
+	    	android:layout_marginLeft="10dip"></ImageView>
+    	<TextView 
+        	android:id="@+id/resourceslist_summary" 
+	       	android:layout_width="wrap_content" 
+	       	android:layout_height="fill_parent"
+	       	android:textSize="15dip"
+	       	android:textStyle="italic"
+	       	android:textColor="#FFFFFF"
+	       	android:paddingLeft="5dip"></TextView>
+</LinearLayout>
